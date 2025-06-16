@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Redfin OpsKit
+> Find out everything you need to know to reliably scrape Redfin with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/redfin)
+
+This kit provides the blueprint for Redfin scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-redfin-scrapers)
 - [Scrapers By Language](#redfin-scrapers-by-language)
@@ -36,46 +47,45 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-redfin-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) ![img](https://github.com/ZacharyHampton.png?size=20) | python | ⭐ 438 | ✅ Yes | 2025-05-05 | ✅ |
-| [RedfinScraper](https://github.com/ryansherby/RedfinScraper) ![img](https://github.com/ryansherby.png?size=20) | python | ⭐ 80 | ✅ Yes | 2023-08-01 | ✅ |
-| [redfin-scraper](https://github.com/wang-ye/redfin-scraper) ![img](https://github.com/wang-ye.png?size=20) | python | ⭐ 24 | ✅ Yes | 2018-12-26 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) ![img](https://github.com/ZacharyHampton.png?size=20) | python | ⭐ 438 | ✅ Yes | 2025-05-05 |
+| [RedfinScraper](https://github.com/ryansherby/RedfinScraper) ![img](https://github.com/ryansherby.png?size=20) | python | ⭐ 80 | ❌ No | 2023-08-01 |
+| [redfin-scraper](https://github.com/wang-ye/redfin-scraper) ![img](https://github.com/wang-ye.png?size=20) | python | ⭐ 24 | ❌ No | 2018-12-26 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Redfin Scrapers By Language <a id="redfin-scrapers-by-language"></a>
-
-### Jupyter Notebook
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [redfin_scraper](https://github.com/thedatadavis/redfin_scraper) | ⭐ 3 | 2018-12-30 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) | ⭐ 438 | 2025-05-05 | immediate | ✅ Yes |
+| [RedfinScraper](https://github.com/ryansherby/RedfinScraper) | ⭐ 80 | 2023-08-01 | professional | ❌ No |
+| [redfin-scraper](https://github.com/wang-ye/redfin-scraper) | ⭐ 24 | 2018-12-26 | immediate | ❌ No |
+| [scraping-real-estate-data-with-python](https://github.com/oxylabs/scraping-real-estate-data-with-python) | ⭐ 6 | 2025-04-09 | immediate | ✅ Yes |
+| [rf_scraper](https://github.com/mxndrwgrdnr/rf_scraper) | ⭐ 3 | 2017-08-30 | immediate | ❌ No |
+| [redfinScraper](https://github.com/talhapythoneer/redfinScraper) | ⭐ 2 | 2022-06-18 | professional | ❌ No |
+| [rf-house-model](https://github.com/ds-sebastian/rf-house-model) | ⭐ 2 | 2021-09-15 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Redfin-Scraping](https://github.com/BeautifulMoon211/Redfin-Scraping) | ⭐ 8 | 2024-09-24 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Redfin-Scraping](https://github.com/BeautifulMoon211/Redfin-Scraping) | ⭐ 8 | 2024-09-24 | immediate | ❌ No |
 
 
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) | ⭐ 438 | 2025-05-05 | — | ✅ Yes |
-| [RedfinScraper](https://github.com/ryansherby/RedfinScraper) | ⭐ 80 | 2023-08-01 | — | ✅ Yes |
-| [redfin-scraper](https://github.com/wang-ye/redfin-scraper) | ⭐ 24 | 2018-12-26 | — | ✅ Yes |
-| [scraping-real-estate-data-with-python](https://github.com/oxylabs/scraping-real-estate-data-with-python) | ⭐ 6 | 2025-04-09 | — | ✅ Yes |
-| [rf_scraper](https://github.com/mxndrwgrdnr/rf_scraper) | ⭐ 3 | 2017-08-30 | — | ✅ Yes |
-| [redfinScraper](https://github.com/talhapythoneer/redfinScraper) | ⭐ 2 | 2022-06-18 | — | ✅ Yes |
-| [rf-house-model](https://github.com/ds-sebastian/rf-house-model) | ⭐ 2 | 2021-09-15 | — | ✅ Yes |
+### Jupyter Notebook
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [redfin_scraper](https://github.com/thedatadavis/redfin_scraper) | ⭐ 3 | 2018-12-30 | immediate | ❌ No |
 
 
 ### Unknown
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Redfin_Real_Estate_Scraper](https://github.com/PatrykIA/Redfin_Real_Estate_Scraper) | ⭐ 3 | 2024-08-09 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Redfin_Real_Estate_Scraper](https://github.com/PatrykIA/Redfin_Real_Estate_Scraper) | ⭐ 3 | 2024-08-09 | professional | ❌ No |
 
 ---
 
@@ -106,7 +116,7 @@ Know a Redfin scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
