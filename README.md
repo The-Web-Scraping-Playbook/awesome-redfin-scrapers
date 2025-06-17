@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Redfin OpsKit
-> Find out everything you need to know to reliably scrape Redfin with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/redfin)
+> Find out everything you need to know to reliably scrape Redfin with our new tool: [Ops Kit](https://scrapeops.io/websites/redfin)
 
 This kit provides the blueprint for Redfin scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -104,7 +104,7 @@ This kit provides the blueprint for Redfin scraping operations:
 ---
 
 ## 🧠 Redfin Tutorials & How-Tos<a id="redfin-tutorials"></a>
-- 📘 [How to Scrape Redfin at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-redfin/)
+- 📘 [How to Scrape Redfin at Scale](https://scrapeops.io/websites/redfin/how-to-scrape-redfin)
 - 🔐 [Web Scraping Redfin Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
