@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Redfin OpsKit
-> Find out everything you need to know to reliably scrape Redfin with our new tool: [Ops Kit](https://scrapeops.io/websites/redfin)
+## 🧠 Redfin Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Redfin with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/redfin)
 
-This kit provides the blueprint for Redfin scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Redfin scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -130,7 +130,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Redfin scraper, web scraping, redfin API, python scraper, playwright, data scraping, anti-bot, github, open-source redfin crawler, ScrapeOps
-
 
 ---
 
